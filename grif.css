@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(73, 21, 21);
+    border: 100px;
+    color: yellow;
+     background-repeat: no-repeat;
+    background-position: center;
+    align-items: center; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centro{
+    text-align: center;
+  }
+  img{
+    width: 500px;
+   
+  }
+h2#black{
+    color: black;
+}
+.texto{
+  text-align: center;
+}
+.tamanho{
+  width: 300px;
+}
+.tamanho2{
+  width: 500px;
+}
+button{
+  background-color: yellow;
+  color: red;
+}

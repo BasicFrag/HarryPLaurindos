@@ -1,0 +1,28 @@
+body{
+    background: #dfa426;
+    color: #4a4542;
+}
+div.centro{
+    text-align: center;
+}
+.tamanho{
+    width: 210px;
+}
+div.texto{
+    text-align: center;
+    color: #4a4542;
+}
+h2#branco{
+    color: white;
+}
+.tamanho2{
+    width: 300px;
+}
+h3#branco{
+    color: white;
+}
+button{
+    
+    background: #dfa426;
+    color: #4a4542;
+}
